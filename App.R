@@ -322,7 +322,7 @@ ui <- page_navbar(
   # --- Pestaña: Formularios Externos ---
   nav_menu(title = "Vinculación", icon = icon("bars"),
            nav_panel("Solicitud de Datos (Investigadores)", card(tags$iframe(src = "https://redcap.link/nqsxtj8n", width = "100%", height = "700px", style = "border:none;"))),
-           nav_item(tags$a("Repositorio de Código", href = "#"))
+           nav_item(tags$a(icon("github"), " Repositorio de Código", href = "https://github.com/leomorgzzz/app-shiny-lupus", target = "_blank"))
   )
 )
 
