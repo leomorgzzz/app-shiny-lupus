@@ -13,7 +13,7 @@ source("dependencies.R")
 ## Instalación y Uso
 1. Clona este repositorio en tu máquina local:
 ```bash
-git clone [https://github.com/leomorgzzz/app-shiny-lupus.git](https://github.com/leomorgzzz/app-shiny-lupus.git)
+git clone https://github.com/leomorgzzz/app-shiny-lupus.git
 ```
 2. Abre tu entorno de R o RStudio y establece tu directorio de trabajo en la carpeta clonada.
 
